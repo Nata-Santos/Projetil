@@ -20,4 +20,5 @@ Entre com a velocidade, em m/s..: 30
 Entre com o ângulo, em graus....: 30
 
 Alcance........: 79,48 m
-Altura máxima..: 11,47 m```
+Altura máxima..: 11,47 m
+```
